@@ -1,7 +1,7 @@
 # LSTM_Bitcoin_Prediction
 This notebook performs predicts the Bitcoin price using the "CryptoCurrency TimeSeries 2020" dataset using an RNN based on LSTM.
 <br/>
-Link to the Kaggle Post: https://www.kaggle.com/pouyashiri/bitcoin-price-prediction-using-lstm/edit
+Link to the Kaggle Post: https://www.kaggle.com/pouyashiri/bitcoin-price-prediction-using-lstm
 <br/>
 Link to the Kaggle Dataset used: https://www.kaggle.com/roopahegde/cryptocurrency-timeseries-2020
 <br/>
